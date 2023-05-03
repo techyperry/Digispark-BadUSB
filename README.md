@@ -12,7 +12,13 @@ https://youtu.be/wllHg8nhOiY
   
 *HOW TO SET-UP IN -ENG*
   
-https://youtu.be/A3cB9BDE6XM  
+https://youtu.be/A3cB9BDE6XM
+  
+*DIGISPARK PAYLOADS*
+  
+https://github.com/MTK911/Attiny85  
+  
+  
   
   
   
