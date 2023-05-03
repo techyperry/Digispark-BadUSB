@@ -11,22 +11,21 @@ Basically Digispark is used in Arduino IDE for development. But, we can ALSO use
   
 
   
-*HOW TO SET-UP IN -HINDI*
+*HOW TO SET-UP IN -HINDI CREDIT- TECHCHIP*
   
 https://youtu.be/wllHg8nhOiY
   
-*HOW TO SET-UP IN -ENG*
+*HOW TO SET-UP IN -ENG CREDIT- NULL BYTE*
   
 https://youtu.be/A3cB9BDE6XM
   
-*DIGISPARK PAYLOADS*
+*DIGISPARK PAYLOADS CREDIT- MTK911*
   
 https://github.com/MTK911/Attiny85 
   
 *I ALSO HAVE ADDED TWO PAYLOADS CHECK-OUT THEM ALSO* 
   
-  
-*CREDITS- TECHCHIP,NULBYTE AND MTK911*  
+ 
   
   
   
