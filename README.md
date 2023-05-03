@@ -1,5 +1,5 @@
  # Digispark-BadUSB
-I provided the link of SET-UP, PAYLOADS and DIGISPARK BUY LINK :)
+I provided the link of SET-UP, PAYLOADS and DIGISPARK :)
 
 <SCREENSHOT OF DIGISPARK>
 
