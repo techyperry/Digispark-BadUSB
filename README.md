@@ -13,7 +13,7 @@ I provided the link of SET-UP, PAYLOADS and DIGISPARK BUY LINK :)
   
 *HOW TO SET-UP IN -HINDI CREDIT- TECHCHIP*
   
-https://youtu.be/wllHg8nhOiY
+ https://youtu.be/wlIHg8nh0iY
   
 *HOW TO SET-UP IN -ENG CREDIT- NULL BYTE*
   
