@@ -1,5 +1,5 @@
 # Digispark-BadUSB
-Basically Digispark is used in Arduino IDE for development. But, we can ALSO use it as a Badusb OR we can ALSO say it "Cheap RUBBER DUCKY".I provided the link of SET-UP, PAYLOADS and DIGISPARK BUY LINK :)
+I provided the link of SET-UP, PAYLOADS and DIGISPARK BUY LINK :)
 
 <SCREENSHOT OF DIGISPARK>
 
