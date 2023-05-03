@@ -3,7 +3,7 @@ Basically Digispark is used in Arduino IDE for development. But, we can ALSO use
 
 <SCREENSHOT OF DIGISPARK>
 
-![Picsart_23-05-03_19-37-57-494](https://user-images.githubusercontent.com/109096437/235945438-e16b74a2-3f03-44a6-b970-f237e78913e5.jpg)
+![techyperry_23-05-03_19-37-57-494](https://user-images.githubusercontent.com/109096437/235951688-f69420d4-f4f4-49e1-b776-2d479550edec.jpg)
   
   *AMAZON BUY LINK*
     
