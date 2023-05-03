@@ -1,4 +1,4 @@
- # Digispark-BadUSB
+ # Digispark
 I provided the link of SET-UP, PAYLOADS and DIGISPARK :)
 
 <SCREENSHOT OF DIGISPARK>
