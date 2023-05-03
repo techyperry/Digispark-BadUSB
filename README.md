@@ -21,8 +21,9 @@ https://youtu.be/A3cB9BDE6XM
   
 *DIGISPARK PAYLOADS*
   
-https://github.com/MTK911/Attiny85  
+https://github.com/MTK911/Attiny85 
   
+^I ALSO HAVE ADDED TWO PAYLOADS CHECK-OUT THEM ALSO^  
   
   
   
