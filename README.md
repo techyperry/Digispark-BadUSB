@@ -10,25 +10,25 @@ I provided the link of SET-UP, PAYLOADS and DIGISPARK :)
 ![20221231_193257](https://user-images.githubusercontent.com/109096437/235974754-a85ffe45-7060-4631-ba06-c4831d83df75.jpg)
 
   
-  *AMAZON BUY LINK*
+  *𝔸𝕄ℤ𝕆ℕ 𝔹𝕌𝕐 𝕃𝕀ℕ𝕂*
     
  https://amzn.eu/d/43uwisc   
   
 
   
-*HOW TO SET-UP IN -HINDI CREDIT- TECHCHIP*
+*ℍ𝕆𝕎 𝕋𝕆 𝕊𝔼𝕋-𝕌ℙ 𝕀ℕ -ℍ𝕀ℕ𝔻𝕀 ℂℝ𝔼𝔻𝕀𝕋- 𝕋𝔼ℂℍℂℍ𝕀ℙ*
   
  https://youtu.be/wlIHg8nh0iY
   
-*HOW TO SET-UP IN -ENG CREDIT- NULL BYTE*
+*ℍ𝕆𝕎 𝕋𝕆 𝕊𝔼𝕋-𝕌ℙ 𝕀ℕ -𝔼ℕ𝔾 ℂℝ𝔼𝔻𝕀𝕋- ℕ𝕌𝕃𝕃 𝔹𝕐𝕋𝔼*
   
 https://youtu.be/A3cB9BDE6XM
   
-*DIGISPARK PAYLOADS CREDIT- MTK911*
+*𝔻𝕀𝔾𝕀𝕊ℙ𝔸ℝ𝕂 ℙ𝔸𝕐𝕃𝕆𝔸𝔻𝕊 ℂℝ𝔼𝔻𝕀𝕋- 𝕄𝕋𝕂𝟡𝟙𝟙*
   
 https://github.com/MTK911/Attiny85 
  
-*YOUTUBE PRACTIAL VIDEO ON DIGISPARK*
+*𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℙℝ𝔸ℂ𝕋𝕀𝔸𝕃 𝕍𝕀𝔻𝔼𝕆 𝕆ℕ 𝔻𝕀𝔾𝕀𝕊ℙ𝔸ℝ𝕂*
 
 https://youtube.com/shorts/Y3_PcmCCLMA?feature=share
 
